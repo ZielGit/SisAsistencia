@@ -1,0 +1,10 @@
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\bin\Debug\SisAsistencia.exe.config
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\bin\Debug\SisAsistencia.exe
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\bin\Debug\SisAsistencia.pdb
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\obj\Debug\SisAsistencia.csprojAssemblyReference.cache
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\obj\Debug\SisAsistencia.Presentacion.MenuPrincipal.resources
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\obj\Debug\SisAsistencia.Properties.Resources.resources
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\obj\Debug\SisAsistencia.csproj.GenerateResource.cache
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\obj\Debug\SisAsistencia.csproj.CoreCompileInputs.cache
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\obj\Debug\SisAsistencia.exe
+D:\Estudio\Proyectos\Proyectos C#\Escritorio\SisAsistencia\SisAsistencia\obj\Debug\SisAsistencia.pdb
