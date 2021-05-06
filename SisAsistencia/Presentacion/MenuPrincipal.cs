@@ -21,5 +21,10 @@ namespace SisAsistencia.Presentacion
         {
 
         }
+
+        private void MenuPrincipal_Load(object sender, EventArgs e)
+        {
+            panelBienvenida.Dock = DockStyle.Fill;
+        }
     }
 }
